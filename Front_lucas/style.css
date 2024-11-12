@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(32, 233, 233);
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
+p{
+ color: rgb(88, 0, 170);
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+ font-size: 30px;
+}
+
+button{
+   background-color: rgb(228, 10, 20);
+   border: 0cqh; 
+   border-radius: 15px;
+   color: aqua; 
+   padding: 20px;
+   font-size: 15px;
+
+}
+
+button:hover {
+    background-color: blue;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
